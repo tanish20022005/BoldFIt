@@ -11,10 +11,10 @@ body {
 }
 @font-face {
   font-family: "Futura-Bold";
-  src: url("https://db.onlinewebfonts.com/t/9a1626276b430d216809407c3fbcda75.eot");
+/*   src: url("https://db.onlinewebfonts.com/t/9a1626276b430d216809407c3fbcda75.eot");
   src: url("https://db.onlinewebfonts.com/t/9a1626276b430d216809407c3fbcda75.eot?#iefix")format("embedded-opentype"),
-  url("https://db.onlinewebfonts.com/t/9a1626276b430d216809407c3fbcda75.woff2")format("woff2"),
-  url("https://db.onlinewebfonts.com/t/9a1626276b430d216809407c3fbcda75.woff")format("woff"),
+  url("https://db.onlinewebfonts.com/t/9a1626276b430d216809407c3fbcda75.woff2")format("woff2"), */
+ src: url("https://db.onlinewebfonts.com/t/9a1626276b430d216809407c3fbcda75.woff")format("woff"),
   url("https://db.onlinewebfonts.com/t/9a1626276b430d216809407c3fbcda75.ttf")format("truetype"),
   url("https://db.onlinewebfonts.com/t/9a1626276b430d216809407c3fbcda75.svg#Futura-Bold")format("svg");
 }
